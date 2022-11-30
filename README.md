@@ -2,3 +2,4 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/l4Ki2obCyAQS5WhFe/giphy.gif?cid=ecf05e47w7vy9qa59hzpl9hwdihyxflzcfijahdklckco99i&rid=giphy.gif&ct=g">
 </div>
+<a rel="me" href="https://social.linux.pizza/@paulfrische" style="display: none;">Mastodon</a>
